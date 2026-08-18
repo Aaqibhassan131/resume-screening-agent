@@ -1,0 +1,19 @@
+Priya Sharma
+priya.sharma@email.com | +91-9876543210
+
+Education:
+B.E. in Information Science Engineering, 2026
+
+Skills:
+Python, Flask, FastAPI, PostgreSQL, SQL, Git, Docker, REST API, Agile
+
+Experience:
+Backend Development Intern - TechStart Solutions (6 months)
+- Built REST APIs using FastAPI and PostgreSQL
+- Wrote unit tests and participated in code reviews
+- Used Docker to containerize services
+- Worked in an Agile team with 2-week sprints
+
+Projects:
+- Personal expense tracker API (Flask + PostgreSQL)
+- Deployed a small service to AWS EC2

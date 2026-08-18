@@ -1,0 +1,23 @@
+Job Title: Junior Backend Developer
+
+We are looking for a Junior Backend Developer to join our engineering team.
+
+Responsibilities:
+- Build and maintain REST APIs using Python (Flask or FastAPI)
+- Work with relational databases such as PostgreSQL or MySQL
+- Write clean, tested code and participate in code reviews
+- Collaborate with frontend developers on API contracts
+- Deploy services using Docker and basic CI/CD pipelines
+
+Required Skills:
+- Proficiency in Python
+- Understanding of SQL and relational database design
+- Familiarity with REST API design principles
+- Basic knowledge of Git for version control
+- Bachelor's degree in Computer Science, Information Science, or related field
+
+Preferred Skills:
+- Experience with Docker
+- Exposure to AWS or another cloud provider
+- Understanding of Agile/Scrum workflows
+- 0-2 years of professional experience (freshers welcome)

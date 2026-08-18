@@ -1,0 +1,6 @@
+rank,filename,score,skills_matched,education,years_experience_mentioned,reasoning
+1,resume_priya.txt,0.1729,"agile, aws, docker, fastapi, flask, git, postgresql, python, rest api, sql","b.e, engineering",unknown,
+2,resume_ananya.txt,0.1617,"django, docker, git, linux, mysql, python, rest api, sql","b.e, engineering",unknown,
+3,resume_arjun.txt,0.067,"css, git, html, java, mysql, rest api, spring, sql",b.tech,1,
+4,resume_karthik.txt,0.058,"excel, python","diploma, engineering",2,
+5,resume_fatima.txt,0.0345,"machine learning, numpy, pandas, python, sql, tableau, tensorflow",m.tech,2,

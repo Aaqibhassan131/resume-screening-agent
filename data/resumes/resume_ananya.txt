@@ -1,0 +1,19 @@
+Ananya Iyer
+ananya.iyer@email.com | +91-9123456780
+
+Education:
+B.E. in Information Science Engineering, 2026
+
+Skills:
+Python, Django, REST API, SQL, MySQL, Git, Linux, basic Docker
+
+Experience:
+Freelance Web Developer (8 months, part-time)
+- Built REST APIs using Django REST Framework
+- Designed relational database schemas in MySQL
+- Deployed small projects on Linux servers
+- Used Git for version control across all projects
+
+Projects:
+- Job board REST API (Django + MySQL)
+- Personal portfolio backend

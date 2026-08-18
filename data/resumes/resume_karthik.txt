@@ -1,0 +1,16 @@
+Karthik Reddy
+karthik.reddy@email.com
+
+Education:
+Diploma in Mechanical Engineering, 2023
+
+Skills:
+AutoCAD, SolidWorks, Excel, basic Python
+
+Experience:
+Design Engineer - BuildTech Industries (2 years)
+- Designed mechanical components using SolidWorks
+- Created engineering drawings in AutoCAD
+
+Projects:
+- Automated a small Excel reporting task using basic Python scripts

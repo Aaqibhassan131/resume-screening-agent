@@ -1,0 +1,17 @@
+Arjun Mehta
+arjun.mehta@email.com
+
+Education:
+B.Tech in Computer Science, 2025
+
+Skills:
+Java, Spring, MySQL, Git, HTML, CSS
+
+Experience:
+Software Developer - CodeCraft Pvt Ltd (1 year)
+- Built internal tools using Java and Spring
+- Worked with MySQL databases
+- Some exposure to REST APIs
+
+Projects:
+- Inventory management system (Java, Spring, MySQL)
